@@ -54,6 +54,7 @@ def countdown(count):
         count_sec = f"0{count_sec}"
     
     canvas.itemconfig(timer_text,text=f"{count_min}:{count_sec}")
+    
     if count >= 0:
         global timer
         timer = window.after(1000,countdown,count-1)
