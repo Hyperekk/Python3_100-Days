@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    background-color: #E4F9F5;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin: 0 auto;
+    font-family: 'Grape Nuts', cursive;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.start {
+    margin-top: 100px;
+    position: relative;
+    width: auto;
+    height: auto;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 5%;
+    right: 35%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 30%;
+    left: 35%;
+}
+
+
+/* #red {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 400px;
+    top: 400px;
+}
+
+#blue {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+#yellow {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+} */
