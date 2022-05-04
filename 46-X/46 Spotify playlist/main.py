@@ -3,8 +3,8 @@ import requests
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
-SPOTIFY_ID = "affde56478cd4519b0ad9d4f7b9f6108"
-SPOTIFY_SECRET = "57836d84021340038210f8e3593e148b"
+SPOTIFY_ID = ""
+SPOTIFY_SECRET = ""
 URI = "http://example.com"
 
 date = input("What year do you want to go to?(YYYY-MM-DD): ")
